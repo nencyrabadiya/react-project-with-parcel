@@ -1,8 +1,8 @@
 {
-  "name": "setup-calculator",
+  "name": "react-project-with-parcel",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://MalaviyaIsha.github.io/setup-calculator",
+  "homepage": "https://MalaviyaIsha.github.io/react-project-with-parcel",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel --no-source-maps",
